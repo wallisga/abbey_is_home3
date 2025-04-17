@@ -1,0 +1,24 @@
+commit:
+  scopes:
+  - core
+  - cli
+  - api
+  - docs
+  - tests
+  types:
+  - feat
+  - fix
+  - docs
+  - style
+  - refactor
+  - test
+  - chore
+  update_changelog: true
+project:
+  description: AG
+  name: abbey_is_home3
+release:
+  branches:
+  - main
+  - release/*
+  update_docs: true
