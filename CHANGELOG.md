@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [v2.0.0] - 2025-04-17
+### Maintenance
+- Comments (77ea05c)
+
+### Other Changes
+- Update version to 2.0.0 (0b72926)
+
+
+
 ## [v1.1.1] - 2025-04-17
 - fix(core): New module function was uncommented
 
