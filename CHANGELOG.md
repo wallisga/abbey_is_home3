@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [v1.1.1] - 2025-04-17
+- fix(core): New module function was uncommented
+
+### Bug Fixes
+- New module function was uncommented (d76c92d)
+
+### Other Changes
+- Update version to 1.1.1 (47a6881)
+
+
+
 ## [v1.1.0] - 2025-04-17
 - feat(core): New module
 
